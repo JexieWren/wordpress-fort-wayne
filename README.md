@@ -190,7 +190,6 @@ For organizations seeking to optimize and extend their WordPress deployments, ad
 
 - [WordPress REST API Handbook](https://developer.wordpress.org/rest-api/): The official documentation for the WordPress REST API.
 - [Learn React at the Official React Website](https://reactjs.org/): The primary resource for learning React, maintained by its creators.
-- [React Router Documentation](https://reactrouter.com/docs/en/v6): Official React Router documentation for client-side routing.
 - [WordPress CLI Documentation](https://developer.wordpress.org/cli/commands/): Documentation for the WP-CLI tool used for WordPress management.
 - [Get Started with GraphQL](https://graphql.org/learn/): An introductory guide to learning GraphQL, provided by the maintainers of GraphQL.
 - [Apollo Client Documentation](https://www.apollographql.com/docs/react/): Documentation for the popular Apollo GraphQL client for React.
