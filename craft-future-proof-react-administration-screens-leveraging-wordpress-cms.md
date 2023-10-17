@@ -1,4 +1,4 @@
-# Craft Future-Proof React Administration Screens Leveraging WordPress as a Frontend-Agnostic Content Source
+# Craft Future-Proof React Administration Screens Leveraging WordPress CMS
 
 When I began my journey as a web developer years ago, the prospect of creating custom administrative interfaces felt like a formidable challenge. Crafting modular, reusable components appeared to be a skill reserved for seasoned engineers at large agencies.
 
